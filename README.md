@@ -75,11 +75,11 @@ The goal is to demonstrate SQL skills, from simple queries (`DISTINCT`) to advan
 - Task: Average customer lifetime value grouped by district.  
 - Insight: Highest is Saint-Denis (216.54).
 
-### 13. Correlated Query (Payments by Category)
+### 13. Window Function (Payments with Category Totals)
 - Task: Payments with category and total category revenue.  
 - Insight: Action total revenue is 4375.85, lowest payment_id is 16055.
 
-### 14. Nested Queries (Top Film per Category)
+### 14. CTEs with Window Functions for Ranking (Top Film per Category)
 - Task: Find the top revenue film in each category.  
 - Insight: Best in Animation is Dogma Family (178.70).
 
